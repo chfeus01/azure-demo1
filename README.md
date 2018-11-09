@@ -1,7 +1,5 @@
 # Palo Alto Networks LB Sandwitch for Azure Egress Security
 
-![alt text](https://raw.githubusercontent.com/dstanic-pan/azure-egress/master/Architecture-Diagram.png)
-
 [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchfeus01%2Fazure-demo1%2Fmaster%2FazureDeploy.json)
 
 This template automates deployment of firewall LB sandwich environment for Egress Security.
